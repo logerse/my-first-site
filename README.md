@@ -1,2 +1,2 @@
-# Blog-on-Django-1.1.3
+# Blog-on-Django-2.0
 First site on Django.
